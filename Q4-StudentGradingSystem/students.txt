@@ -1,0 +1,5 @@
+101,Alice Mensah,84
+102,Kofi Adjei,72
+103,Yaa Asantewaa,58
+104,Nana Boateng,45
+105,Kwame Nkrumah,91

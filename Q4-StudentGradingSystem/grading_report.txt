@@ -1,0 +1,5 @@
+Alice Mensah (ID: 101): Score = 84, Grade = A
+Kofi Adjei (ID: 102): Score = 72, Grade = B
+Yaa Asantewaa (ID: 103): Score = 58, Grade = D
+Nana Boateng (ID: 104): Score = 45, Grade = F
+Kwame Nkrumah (ID: 105): Score = 91, Grade = A
