@@ -1,0 +1,32 @@
+[
+  {
+    "Id": 1,
+    "Name": "Office Chair",
+    "Quantity": 15,
+    "DateAdded": "2026-09-12T10:08:22.8926009+00:00"
+  },
+  {
+    "Id": 2,
+    "Name": "Standing Desk",
+    "Quantity": 8,
+    "DateAdded": "2026-09-12T10:08:22.8950732+00:00"
+  },
+  {
+    "Id": 3,
+    "Name": "Monitor Arm",
+    "Quantity": 25,
+    "DateAdded": "2026-09-12T10:08:22.8950745+00:00"
+  },
+  {
+    "Id": 4,
+    "Name": "Keyboard",
+    "Quantity": 40,
+    "DateAdded": "2026-09-12T10:08:22.8950747+00:00"
+  },
+  {
+    "Id": 5,
+    "Name": "Webcam",
+    "Quantity": 12,
+    "DateAdded": "2026-09-12T10:08:22.8950747+00:00"
+  }
+]
